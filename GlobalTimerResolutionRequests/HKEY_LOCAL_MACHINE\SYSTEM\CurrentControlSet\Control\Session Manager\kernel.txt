@@ -1,0 +1,3 @@
+GlobalTimerResolutionRequests
+
+dados: 1 / hexadecimal
