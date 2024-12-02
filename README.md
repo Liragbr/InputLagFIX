@@ -1,4 +1,4 @@
-﻿# 🎮💻| INPUTLAG FIX
+﻿# 💻 how to reduce input lag
 _InputLagFIX is a solution designed to reduce input lag on Windows systems, enhancing system responsiveness and improving the experience in gaming or critical applications. The project combines essential tools to fine-tune system settings and optimize performance_
 
 ### Features
